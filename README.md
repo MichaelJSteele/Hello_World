@@ -1,5 +1,8 @@
 # Hello_World
-Practice Repository
 
+## Practice Repository
 Hi my name is Michael
 I am a BA student in BAIS 3050 this is my practice repository.
+
+### How to Run Program
+This is a practice repository
